@@ -1,0 +1,811 @@
+﻿  MyImageFusion.cpp
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\laplacianpyramid.hpp(28): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(109): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(110): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(111): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(112): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(113): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(114): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(121): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(122): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(123): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(124): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(125): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(126): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(131): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(132): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(133): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(134): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(135): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(136): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(156): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(157): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(158): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(159): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(160): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(161): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(166): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(167): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(168): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(169): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(170): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(171): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(174): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(175): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(176): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(177): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(178): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(179): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(219): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(224): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(232): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(237): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(241): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(251): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(257): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(327): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(328): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(372): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(427): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(428): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(433): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(434): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(438): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(439): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(441): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(442): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(450): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(451): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(452): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(453): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(454): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(455): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(460): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(461): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(462): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(463): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(464): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(465): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(488): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(489): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(494): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(495): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(498): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(499): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(500): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(501): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(506): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(507): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(508): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(509): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(510): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(511): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(514): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(515): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(516): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(517): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(518): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(519): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(558): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(563): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(571): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(576): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(580): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(590): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(596): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(616): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(618): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(620): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(624): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(630): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(634): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(645): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(647): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(649): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(653): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(661): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(665): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(677): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(685): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(693): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(695): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(794): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(820): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(821): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(851): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(852): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(857): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(858): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(862): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(863): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(865): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(866): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(874): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(875): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(881): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(882): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(886): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(887): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(892): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(893): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(898): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(899): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(900): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(901): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(902): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(903): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(937): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(944): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(954): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(961): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(965): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(966): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(967): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(968): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(974): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(975): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(985): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(991): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1001): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1007): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1012): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1013): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1017): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1018): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1019): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1020): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1021): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1022): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1062): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1067): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1075): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1080): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1084): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1096): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1102): warning C4244: “=”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1134): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1139): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1143): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1146): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1157): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1165): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1181): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\myimagefusion.cpp(1214): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(47160): warning C4477: “fprintf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 14 拥有了类型“unsigned __int64”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(47160): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(47160): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(47160): note: 请考虑在格式字符串中使用“%I64u”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(47146): note: 编译 类 模板 成员函数 "const cimg_library::CImg<int> &cimg_library::CImg<int>::print(const char *const ,const bool) const" 时
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(47236): note: 参见对正在编译的函数 模板 实例化“const cimg_library::CImg<int> &cimg_library::CImg<int>::print(const char *const ,const bool) const”的引用
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53306): note: 参见对正在编译的 类 模板 实例化 "cimg_library::CImg<int>" 的引用
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(55456): note: 参见对正在编译的 类 模板 实例化 "cimg_library::CImgList<T>" 的引用
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53297): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53297): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53297): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53297): note: 请考虑在格式字符串中使用“%I64u”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53218): note: 编译 类 模板 成员函数 "cimg_library::CImgList<T> &cimg_library::CImgList<T>::_load_cimg(FILE *const ,const char *const )" 时
+          with
+          [
+              T=int
+          ]
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53197): note: 参见对正在编译的函数 模板 实例化“cimg_library::CImgList<T> &cimg_library::CImgList<T>::_load_cimg(FILE *const ,const char *const )”的引用
+          with
+          [
+              T=int
+          ]
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(50215): note: 参见对正在编译的 类 模板 实例化 "cimg_library::CImgList<T>" 的引用
+          with
+          [
+              T=int
+          ]
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(50214): note: 编译 类 模板 成员函数 "const cimg_library::CImg<int> &cimg_library::CImg<int>::save_video(const char *const ,const unsigned int,const char *,const bool) const" 时
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(48337): note: 参见对正在编译的函数 模板 实例化“const cimg_library::CImg<int> &cimg_library::CImg<int>::save_video(const char *const ,const unsigned int,const char *,const bool) const”的引用
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53298): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53298): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53298): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53298): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53299): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53299): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53299): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53299): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53300): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53300): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53300): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53300): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53301): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53301): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53301): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53301): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53302): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53302): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53302): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53302): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53303): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53303): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53303): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53303): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53304): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53304): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53304): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53304): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53305): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53305): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53305): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53305): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53306): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53306): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53306): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53306): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53307): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53307): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53307): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53307): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53308): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53308): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53308): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53308): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53309): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53309): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53309): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53309): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53310): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53310): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53310): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53310): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53311): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53311): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53311): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53311): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53312): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53312): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53312): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53312): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53313): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53313): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53313): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53313): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53314): warning C4477: “sscanf”: 格式字符串“%lu”需要类型“unsigned long *”的参数，但可变参数 5 拥有了类型“unsigned __int64 *”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53314): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53314): note: 请考虑在格式字符串中使用“%Iu”
+  c:\users\lmp\source\repos\consoleapplication3\consoleapplication3\cimg.h(53314): note: 请考虑在格式字符串中使用“%I64u”
+  ConsoleApplication3.vcxproj -> C:\Users\LMP\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
