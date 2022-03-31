@@ -9,6 +9,8 @@
 
 图片的类型只支持bmp，用CImg的缺点，那个jpg工具链接哪位大佬做到了和我交流下，谢谢
 
+博客网址:https://blog.csdn.net/lxxmp/article/details/88779506?spm=1001.2014.3001.5502
+
 # opencv-stitching
 Undergraduate graduation project in 19 years, image stitching, sift
 
@@ -19,3 +21,5 @@ Contents such as correcting cylindrical projection were not achieved.
 The feature points use the sift algorithm, and the code can be combined with online explanations to read by yourself
 
 The type of picture only supports bmp, the disadvantage of using CImg, the jpg tool link, which big guy has done it, talk to me, thank you.
+
+blog: https://blog.csdn.net/lxxmp/article/details/88779506?spm=1001.2014.3001.5502
